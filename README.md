@@ -34,6 +34,3 @@
 ## Results
 - Enhanced **data integrity** and **perk relevance** through targeted improvements.  
 - Supported **data-driven decision-making** for marketing and retention strategies.
-
-## Repository Structure
-
